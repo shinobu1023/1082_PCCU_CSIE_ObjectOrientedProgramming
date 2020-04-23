@@ -34,7 +34,15 @@
 │
 ├── 第十一章實習練習
 │   ├── 第一題-Swap function in class
-└── └── 第二題-Swap function in main
+│   └── 第二題-Swap function in main
+│
+├── 第一次期中考
+│   ├── 第一題-字串分割與傳遞string陣列
+│   ├── 第二題-Employee 封裝
+│   ├── 第三題-Employee print
+│   ├── 第四題-Employee 物件陣列與 static const
+└── └── 第五題-物件組合
+
 
 ```
 ```diff

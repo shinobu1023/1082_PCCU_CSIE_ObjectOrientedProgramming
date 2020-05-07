@@ -49,7 +49,21 @@
 │   └── HW1-傳遞長方形陣列
 │
 ├── 第二次作業
-└── └── HW2-學生成績資料卡
+│   └── HW2-學生成績資料卡
+|
+├── 第一次期中補考
+│   ├── 第一題-Employee 物件陣列與 static const
+│   ├── 第二題-物件組合
+│   └── 第三題-字串分割與傳遞string陣列
+|
+├── 第十二章實習練習
+│   ├── 第一題-Template
+│   ├── 第二題-Template Stack
+│   ├── 第三題-GuessBirthDay
+│   └── 第四題-成績vector
+│
+├── 第十四章實習練習
+└── └── 第一題-Rational operator
 
 ```
 ```diff

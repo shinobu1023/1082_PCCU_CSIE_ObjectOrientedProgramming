@@ -63,7 +63,12 @@
 │   └── 第四題-成績vector
 │
 ├── 第十四章實習練習
-└── └── 第一題-Rational operator
+|   └── 第一題-Rational operator
+|
+├── 第二次期中考前小考
+│   ├── 第一題-matrix_min
+│   ├── 第二題-template reverse
+└── └── 第三題-Point
 
 ```
 ```diff

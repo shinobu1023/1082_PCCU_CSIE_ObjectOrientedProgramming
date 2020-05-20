@@ -4,6 +4,8 @@
 
 ==========================================*/
 
+/* 本題重點： 一維 vector 傳遞、vector 找最大值、vector 排序、vector 使用 template  */
+
 #include <iostream>
 #include <iomanip>   // 將會使用到 setprecision
 #include <vector>    // 將會使用到 vector

@@ -4,6 +4,8 @@
 
 ==========================================*/
 
+/* 本題重點： 物件 Reference 交換、物件 Pointer 交換 */
+
 #include <iostream>
 #include <iomanip> // 將會使用到 setprecision
 #include <string>

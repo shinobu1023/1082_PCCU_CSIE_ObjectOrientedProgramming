@@ -4,6 +4,8 @@
 
 ==========================================*/
 
+/* 本題重點： 將物件利用operator運算  */
+
 #include <iostream>
 #include <string>  // 將會使用到 string
 #include <sstream> // 將會使用到 stringstream

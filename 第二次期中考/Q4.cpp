@@ -4,6 +4,8 @@
 
 ==========================================*/
 
+/* 本題重點： 撰寫類別透過函式進行運算  */
+
 #include <iostream>
 #include <string>  // 將會使用到 string
 #include <sstream> // 將會使用到 stringstream

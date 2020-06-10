@@ -85,7 +85,25 @@
 |   └── HW3-Complex_operator
 |
 ├── 第十三章實習練習
-└── └── 第一題-循序題
+|   └── 第一題-循序題
+|
+├── 第四次作業
+|   └── HW4-繼承
+|
+├── Python 實習練習
+│   ├── 第一題-LeapYear_NotOOP
+│   ├── 第二題-Rectangle_Encapsulation
+│   ├── 第三題-StudentCard_Composition
+|   └── 第四題-GeometricObject_Inheritance
+|
+├── 第二次期中考
+│   ├── 第一題-循序檔案
+│   ├── 第二題-隨機檔案 (本題已刪除)
+│   ├── 第三題-C++繼承
+│   ├── 第四題-C++多型
+│   ├── 第五題-基礎 Python
+│   ├── 第六題-Python 物件組合
+└── └── 第七題-Python 繼承
 
 ```
 ```diff
